@@ -15,10 +15,10 @@ Stop uploading files one by one into ChatGPT. Connect a local folder of PDFs, Wo
 ## BestTime.app
 [BestTime.app](https://besttime.app) | Foot Traffic Data API for visitor patterns in bars, shops, museums, etc. E.g. Find busy bars, quiet museums 
 
-![BestTime Foot Traffic data](https://besttime.app/images/landingpage/besttime-infographic-v3.webp)
+![BestTime Foot Traffic data](https://blog.besttime.app/content/images/size/w2000/2021/03/radar-new-york-2.jpg)
 
 ## Aviation.bot
 [Aviation.Bot](https://aviation.bot) Aviation Regulations Copilot
 Stop scrolling through 2,000-page PDFs. Get instant answers linked directly to EASA Rules, AMC, and GM. Designed for Human-in-the-Loop verification and aligned with EASA’s AI Trustworthiness standards.
 
-![Aviation.Bot aviation regulations](aviation.bot/static/assets/img/front-pages/landing-page/video-poster-2.webp)
+![Aviation.Bot aviation regulations](https://aviation.bot/assets/images/infographic-v11-aviationbot-7223edb65702c6efa55d89ef4ddbb4bb.jpg)
